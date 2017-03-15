@@ -1,4 +1,4 @@
 This application consumes a public API using HTTP client library. 
-It takes in a web address, and returns information about that website.
+
 
 i.e. It does a simple GET request on a web address from the command line.
